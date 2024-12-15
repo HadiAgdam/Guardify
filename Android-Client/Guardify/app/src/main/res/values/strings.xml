@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Guardify</string>
+    <string name="browser">Browser</string>
+    <string name="messages">Messages</string>
+    <string name="send_message">Send message...</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="have_account">Do you have an account?</string>
+    <string name="login_now">Login now</string><string name="problem_in_connect">Connection problem</string>
+    <string name="unauthorize_error">You need to log in again</string>
+    <string name="unknown_error">Unknown problem</string>
+    <string name="serialize_error">Problem parsing data</string>
+    <string name="server_error">Server-side problem</string>
+    <string name="client_error">Client-side problem</string>
+    <string name="pay_load_too_large_error">Problem with large data</string>
+    <string name="bad_request_error">The provided information is incorrect</string>
+    <string name="success">Success</string>
+    <string name="invalid_data">Invalid data</string>
+    <string name="login">Login</string>
+    <string name="register_now">Register Now</string>
+    <string name="have_not_account">Do you have not account?</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="notifications">Notifications</string>
+    <string name="link_is_valid">The link is valid</string>
+    <string name="link_is_not_valid">The link is not valid</string>
+    <string name="validating">Validating...</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="all">All</string>
+    <string name="phishing">Phishing</string>
+    <string name="advertisement">Ads</string>
+    <string name="validate_link">Validate Link</string>
+    <string name="open_with_other_browsers">Open with other browsers</string>
+    <string name="try_again">Try again</string>
+    <string name="open_with">Open With</string>
+    <string name="open_with_safe_browser">Open with safe browser</string>
+    <string name="open">Open</string>
+    <string name="with">with...</string>
+    <string name="protecting">Protecting...</string>
+    <string name="everything_looks_fine">Everything looks fine</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="unsafe_notifications">Unsafe notifications</string>
+</resources>

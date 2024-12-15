@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 8.7.0" type="baseline" client="gradle" dependencies="false" name="AGP (8.7.0)" variant="fatal" version="8.7.0">
+
+    <issue
+        id="MissingDefaultResource"
+        message="The drawable &quot;ic_search&quot; in drawable-normal has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        errorLine1="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
+        errorLine2=" ~~~~~~">
+        <location
+            file="src/main/res/drawable-normal/ic_search.xml"
+            line="1"
+            column="2"/>
+    </issue>
+
+</issues>
